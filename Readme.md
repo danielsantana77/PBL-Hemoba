@@ -5,3 +5,6 @@
 
 ## Participantes
 - Emerson de Brito Souza
+- Eduardo Marques
+- Cássio Santos
+
