@@ -4,3 +4,4 @@
 - Cássio Santos
 
 ## Participantes
+- Emerson de Brito Souza
