@@ -7,6 +7,8 @@
 
 - Ramon Silva
 - Emerson de Brito Souza
+- Emanuel Santana
+- Eduardo Marques
 - Eduardo Marques
 - Glauber da Silva Santana
 - Gabriel Silva de Azevedo
