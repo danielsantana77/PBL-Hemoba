@@ -7,6 +7,7 @@
 
 
 - Werisson Mota
+- Eduardo Marques 
 - IVANILDO
 - Ramon Silva
 - Emerson de Brito Souza
@@ -14,9 +15,7 @@
 - Eduardo Marques
 - Glauber da Silva Santana
 - Gabriel Silva de Azevedo
-- Eduardo Marques
 - Cássio Santos
 - Emerson de Brito Souza
 - Mateus Lima
 - Ariana Pereira
-
