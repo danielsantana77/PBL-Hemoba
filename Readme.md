@@ -4,3 +4,5 @@
 - Cássio Santos
 
 ## Participantes
+
+- Gabriel Silva de Azevedo
