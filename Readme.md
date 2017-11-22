@@ -5,9 +5,9 @@
 
 ## Participantes
 
-<<<<<<< HEAD
+
 - Werisson Mota
-=======
+- IVANILDO
 - Ramon Silva
 - Emerson de Brito Souza
 - Emanuel Santana
