@@ -6,12 +6,13 @@
 ## Participantes
 
 - Eduardo Marques (AGAIN #1)
-- Mateus Lima
-- Gabriel Silva de Azevedo
-- Eduardo Marques
-- Cássio Santos
+- Ramon Silva
 - Emerson de Brito Souza
+- Emanuel Santana
+- Eduardo Marques
+- Glauber da Silva Santana
 - Gabriel Silva de Azevedo
 - Eduardo Marques
 - Cássio Santos
+- Mateus Lima
 - Ariana Pereira
