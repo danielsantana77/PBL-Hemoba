@@ -13,7 +13,6 @@
 - Eduardo Marques
 - Glauber da Silva Santana
 - Gabriel Silva de Azevedo
-- Eduardo Marques
 - Cássio Santos
 - Mateus Lima
 - Ariana Pereira
