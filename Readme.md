@@ -5,7 +5,11 @@
 
 ## Participantes
 
+<<<<<<< HEAD
 - Werisson Mota
+=======
+- Ramon Silva
+- Emerson de Brito Souza
 - Emanuel Santana
 - Eduardo Marques
 - Glauber da Silva Santana
@@ -15,5 +19,4 @@
 - Emerson de Brito Souza
 - Mateus Lima
 - Ariana Pereira
-
 
