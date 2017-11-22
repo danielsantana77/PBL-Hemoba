@@ -5,3 +5,6 @@
 
 ## Participantes
 - Werisson Mota
+- Gabriel Silva de Azevedo
+- Eduardo Marques
+- Cássio Santos
