@@ -8,7 +8,7 @@
 
 - Werisson Mota
 - Eduardo Marques 
-- I anil do Gomes
+- Ivanildo Gomes
 - Ramon Silva
 - Emerson de Brito Souza
 - Emanuel Santana
